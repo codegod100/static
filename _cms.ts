@@ -8,8 +8,8 @@ cms.storage(
     "src",
     new GitHub({
         client: new Octokit({ auth: Deno.env.get("GITHUB_TOKEN") }),
-        owner: "username",
-        repo: "example",
+        owner: "codegod100",
+        repo: "static",
     }),
 );
 
