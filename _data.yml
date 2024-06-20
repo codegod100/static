@@ -1,0 +1,12 @@
+lang: en
+home:
+  welcome: 'Bruh, this is dope'
+menu_links: []
+metas:
+  site: My Site
+  description: Cool stuff here
+  title: =title
+  image: =image
+  twitter: '@username'
+  lang: en
+  generator: false
