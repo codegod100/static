@@ -21,6 +21,11 @@ links:
     text: '@demon.ooo'
     href: 'https://bsky.app/profile/demon.ooo'
     only_icon: false
+  - type: onnx
+    text: Demon @ nostr
+    href: >-
+      https://primal.net/p/npub1qazhvjdn4e4jcgd7u579qy4zc860vdfmkds0a6l499vm4dzgd4nssjn7s2
+    only_icon: false
 footer: >-
   Powered by [Lume](https://lume.land) &
   [SimpleMe](https://github.com/lumeland/theme-simple-me) theme
