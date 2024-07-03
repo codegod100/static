@@ -1,8 +1,8 @@
 import lume from "lume/mod.ts";
-import blog from "blog/mod.ts";
+import me from "me/mod.ts";
 
 const site = lume();
 
-site.use(blog());
+site.use(me());
 
 export default site;

@@ -1,0 +1,22 @@
+layout: layouts/base.vto
+header:
+  title: Demon's Lair
+  description: Welcome to the night
+  avatar: /avatar.jpg
+metas:
+  title: =header.title
+  description: =header.description
+  image: =header.avatar
+  generator: true
+links:
+  - text: '@v@federate.social'
+    href: 'https://federate.social/@v'
+    type: mastodon
+    only_icon: false
+  - type: github
+    text: GitHub
+    href: 'https://github.com/codegod100/'
+    only_icon: false
+footer: >-
+  Powered by [Lume](https://lume.land) &
+  [SimpleMe](https://github.com/lumeland/theme-simple-me) theme

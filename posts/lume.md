@@ -1,7 +1,7 @@
 ---
-title: Trying to figure this out
+title: messing around with lume again
 draft: false
 tags: []
 comments: {}
 ---
-Trying to figure out how to put this theme on deno deploy. It's not working the way I want it to
+Decided to give lume another chance. Also thinking of making this site my "webpage"

@@ -1,10 +1,10 @@
 lang: en
 home:
-  welcome: 'Bruh, this is dope'
+  welcome: 'Welcome to the night'
 menu_links: []
 metas:
-  site: My Site
-  description: Cool stuff here
+  site: demon.ooo
+  description: My personal site
   title: =title
   image: =image
   twitter: '@username'
